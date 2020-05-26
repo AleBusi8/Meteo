@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\Busi.Alessandro.4H.Meteo\Busi.Alessandro.4H.Meteo\bin\Debug\Busi.Alessandro.4H.Meteo.exe.config
+C:\Users\Administrator\source\repos\Busi.Alessandro.4H.Meteo\Busi.Alessandro.4H.Meteo\bin\Debug\Busi.Alessandro.4H.Meteo.exe
+C:\Users\Administrator\source\repos\Busi.Alessandro.4H.Meteo\Busi.Alessandro.4H.Meteo\bin\Debug\Busi.Alessandro.4H.Meteo.pdb
+C:\Users\Administrator\source\repos\Busi.Alessandro.4H.Meteo\Busi.Alessandro.4H.Meteo\obj\Debug\Busi.Alessandro.4H.Meteo.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Busi.Alessandro.4H.Meteo\Busi.Alessandro.4H.Meteo\obj\Debug\AggiungiCittà.g.cs
+C:\Users\Administrator\source\repos\Busi.Alessandro.4H.Meteo\Busi.Alessandro.4H.Meteo\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\source\repos\Busi.Alessandro.4H.Meteo\Busi.Alessandro.4H.Meteo\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\Busi.Alessandro.4H.Meteo\Busi.Alessandro.4H.Meteo\obj\Debug\Busi.Alessandro.4H.Meteo_MarkupCompile.cache
+C:\Users\Administrator\source\repos\Busi.Alessandro.4H.Meteo\Busi.Alessandro.4H.Meteo\obj\Debug\Busi.Alessandro.4H.Meteo_MarkupCompile.lref
+C:\Users\Administrator\source\repos\Busi.Alessandro.4H.Meteo\Busi.Alessandro.4H.Meteo\obj\Debug\AggiungiCittà.baml
+C:\Users\Administrator\source\repos\Busi.Alessandro.4H.Meteo\Busi.Alessandro.4H.Meteo\obj\Debug\MainWindow.baml
+C:\Users\Administrator\source\repos\Busi.Alessandro.4H.Meteo\Busi.Alessandro.4H.Meteo\obj\Debug\Busi.Alessandro.4H.Meteo.g.resources
+C:\Users\Administrator\source\repos\Busi.Alessandro.4H.Meteo\Busi.Alessandro.4H.Meteo\obj\Debug\Busi.Alessandro._4H.Meteo.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Busi.Alessandro.4H.Meteo\Busi.Alessandro.4H.Meteo\obj\Debug\Busi.Alessandro.4H.Meteo.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Busi.Alessandro.4H.Meteo\Busi.Alessandro.4H.Meteo\obj\Debug\Busi.Alessandro.4H.Meteo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Busi.Alessandro.4H.Meteo\Busi.Alessandro.4H.Meteo\obj\Debug\Busi.Alessandro.4H.Meteo.exe
+C:\Users\Administrator\source\repos\Busi.Alessandro.4H.Meteo\Busi.Alessandro.4H.Meteo\obj\Debug\Busi.Alessandro.4H.Meteo.pdb
